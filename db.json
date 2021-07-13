@@ -1,13 +1,13 @@
 {
   "users": [
-    {"name":"Alpha","age":19,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/1.jpg","gender":"female"},
-    {"name":"Beta","age":23,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/2.jpg","gender":"male"},
-    {"name":"Gamma","age":26,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/3.jpg","gender":"male"},
-    {"name":"Delta","age":23,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/4.jpg","gender":"female"},
-    {"name":"Epsilon","age":28,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/5.jpg","gender":"female"},
-    {"name":"Fenris","age":21,"img":"https://tocode.ru/8tatic/c/vue-pro/a8set8/userCRM/6.jpg","gender":"female"},
-    {"name":"Gorf","age":30,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/2.jpg","gender":"male"},
-    {"name":"Gohan","age":22,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/3.jpg","gender":"male"},
-    {"name":"Gref","age":20,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/1.jpg","gender":"female"}
+    {"name":"Alpha","age":19,"img":"https://images.generated.photos/_U5GUjwDKTUtiDlm3y1stHYgDcO_CNtrbqHvWHiEdYU/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzAzNTQ5NzUuanBn.jpg","gender":"female"},
+    {"name":"Beta","age":23,"img":"https://images.generated.photos/wcKeT9xMgi2IQEOCCHEmGDBgFCddoTMX5VV1m1Fo49o/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzA3MjA1NjYuanBn.jpg","gender":"male"},
+    {"name":"Gamma","age":26,"img":"https://images.generated.photos/03ADFDv-zATnvRElPhAui6VpuUv2T99XB1qRXoqCZhY/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzA3OTQ3NzQuanBn.jpg","gender":"male"},
+    {"name":"Delta","age":23,"img":"https://images.generated.photos/OYxg8qxo3VOKGNfhMdR8OIrAUBSh6CeLBnQxfPTTK1Q/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzAxOTkyMjYuanBn.jpg","gender":"female"},
+    {"name":"Epsilon","age":28,"img":"https://images.generated.photos/eDhuVYM4AbxdrUyiDjYvBTdXOH7To3JOX7gMROsver0/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzA5NjgxODkuanBn.jpg","gender":"female"},
+    {"name":"Fenris","age":21,"img":"https://images.generated.photos/3yDbVtFv2IC5Z9jnLhthgXGKKGIfHgFpCzkaOm7c-tc/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzAwMDY0ODIuanBn.jpg","gender":"female"},
+    {"name":"Gorf","age":30,"img":"https://images.generated.photos/eB2oLP3Ktg41nFAa0l4jFCgrMKumNswmXkWRgMI0KKU/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzA5OTc2NDguanBn.jpg","gender":"male"},
+    {"name":"Gohan","age":22,"img":"https://images.generated.photos/t5WYnK3ngjF5ylspYVQ9aDIyL_vIz28KkZ_H_jUjFdQ/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzAxMjE4MzkuanBn.jpg","gender":"male"},
+    {"name":"Gref","age":20,"img":"https://images.generated.photos/E53moYXMmv1BhIq-pvcCzS3ckkCJCRcxoI-O3F5oGAk/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzA5MDMwMzcuanBn.jpg","gender":"female"}
   ]
 }
